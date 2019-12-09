@@ -7,3 +7,8 @@ Install:
 4. pipenv
 5. pipenv shell
 6. pipenv install flask flask-sqlalchemy flask-marshmallow marshmallow-sqlalchemy
+
+
+Run backend:
+- pipenv shell 
+- python app.py
