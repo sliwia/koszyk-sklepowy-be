@@ -6,7 +6,7 @@ Install:
 3. pip install pipenv
 4. pipenv
 5. pipenv shell
-6. pipenv install flask flask-sqlalchemy flask-marshmallow marshmallow-sqlalchemy
+6. pipenv install flask flask-sqlalchemy flask-marshmallow marshmallow-sqlalchemy flask-cors
 
 
 Run backend:
